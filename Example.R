@@ -1,6 +1,4 @@
 
-setwd("/Users/mbms/Documents/GitHub/Sample_9-27-22")
-
 #Data import/cleaning
 
 raw_data<-read_csv('Sample Agree.csv')
